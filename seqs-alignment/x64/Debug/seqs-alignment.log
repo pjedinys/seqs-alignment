@@ -1,0 +1,4 @@
+﻿  seqs-alignment.cpp
+C:\Users\filip\source\repos\seqs-alignment\seqs-alignment.cpp(12,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\filip\source\repos\seqs-alignment\seqs-alignment.cpp(12,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  seqs-alignment.vcxproj -> C:\Users\filip\source\repos\seqs-alignment\x64\Debug\seqs-alignment.exe
