@@ -1,2 +1,2 @@
 # seqs-alignment
-Alignment of genetic sequences using Waterman-Smith algorithm
+Alignment of genetic sequences using Smith-Waterman algorithm
